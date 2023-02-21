@@ -11,7 +11,6 @@ apollo {
     packageName.set("com.appiwedia.apps.android")
 }
 
-
 android {
     namespace = "com.appiwedia.apps.android.countriesapp"
     compileSdk = 33
